@@ -1,0 +1,14 @@
+Production deployment - 
+	Angular  - UI Changes to be confirmed and send to Basis
+	Node - Changes done -  with Basis
+	Phase 3 to be deployed to QA & PRD
+	VR to be deployed to QA & PRD
+	Deployed app to be integrated in Menu
+
+Check the applications are working in PRD & QA
+
+Donation testing cofirmation
+Phase 4 testing confirmation 
+
+Spring API to be deployed
+Report screen to be developed and bind to Spring API's
