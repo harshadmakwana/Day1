@@ -1,4 +1,3 @@
 Now Day1
 Now Day2
-Its Day3
-New line
+Now Day3
